@@ -4,7 +4,7 @@
 04. [22.06.23 CSS](https://github.com/HiKim95/Gukbi/blob/main/220623.md)  
 05. [22.06.24](https://github.com/HiKim95/Gukbi/blob/main/220624.md)  
 06. [22.06.27](https://github.com/HiKim95/Gukbi/blob/main/220627.md)  
-07. []()  
+07. [22.06.28](https://github.com/HiKim95/Gukbi/blob/main/220628.md)  
 08. []()  
 09. []()  
 10. []()  
