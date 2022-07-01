@@ -7,7 +7,7 @@
 07. [22.06.28](https://github.com/HiKim95/Gukbi/blob/main/220628.md)  
 08. [22.06.29](https://github.com/HiKim95/Gukbi/blob/main/220629.md)  
 09. [22.06.30](https://github.com/HiKim95/Gukbi/blob/main/220630.md)  
-10. [22.07.01(https://github.com/HiKim95/Gukbi/blob/main/220701.md)
+10. [22.07.01](https://github.com/HiKim95/Gukbi/blob/main/220701.md)
 11. []()  
 12. []()  
 13. []()  
