@@ -12,7 +12,7 @@
 12. [22.07.05](https://github.com/HiKim95/Gukbi/blob/main/220705.md)  
 13. [22.07.06](https://github.com/HiKim95/Gukbi/blob/main/220706.md)  
 14. [22.07.07](https://github.com/HiKim95/Gukbi/blob/main/220707.md)  
-15. [22.07.08](https://github.com/HiKim95/Gukbi/blob/main/220708.md)  
+15. [22.07.08 javascript](https://github.com/HiKim95/Gukbi/blob/main/220708.md)  
 16. []()  
 17. []()  
 18. []()  
